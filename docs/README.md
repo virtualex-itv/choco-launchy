@@ -1,6 +1,6 @@
 [![Latest released version](https://img.shields.io/chocolatey/v/launchy.svg)](https://chocolatey.org/packages/launchy)
 [![Package downloads count](https://img.shields.io/chocolatey/dt/launchy.svg)](https://chocolatey.org/packages/launchy)
-[![Build status](https://img.shields.io/appveyor/ci/virtualex-itv/choco-launchy/master.svg?logo=appveyor)](https://ci.appveyor.com/project/virtualex-itv/choco-launchy)
+[![Build status](https://img.shields.io/appveyor/ci/virtualex-itv/choco-launchy/main.svg?logo=appveyor)](https://ci.appveyor.com/project/virtualex-itv/choco-launchy)
 
 [![Latest prereleased version](https://img.shields.io/chocolatey/v/launchy.svg?include_prereleases)](https://chocolatey.org/packages/launchy)
 
