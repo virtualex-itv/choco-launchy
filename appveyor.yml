@@ -1,4 +1,4 @@
-version: 2.6.0.2-beta.{build}
+version: 2.6.0-beta2.{build}
 environment:
   TOKEN:
     secure: 7vdY1FDIcMA9+2GbVc/cmQSEDVPeypkvbLAkK1M7RzHyBuVBZh3wdLy5dElG3K7G
