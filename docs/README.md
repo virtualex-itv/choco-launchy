@@ -13,4 +13,4 @@
 Chocolatey package for Launchy
 
 ---
-![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-launchy/960bb87431a8590b1382d0b87c674ee2a8a99e81/_img/choco-launchy-test.png)
+![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-launchy/0942f73a61bf8f8b82d05161bd9b8f717b93a67b/_img/choco-launchy-test.png)
